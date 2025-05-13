@@ -1,5 +1,5 @@
 # Task 1: Formal Code Review – PyQt4 Calculator
-📌 Repository Info
+Repository Info
 - Forked from: https://github.com/koakumaping/Calculator_Python *(or the original repo you forked)*
 - My fork: https://github.com/YOUR_USERNAME/YOUR_REPO *(replace with your real link)*
 
