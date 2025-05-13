@@ -1,17 +1,12 @@
 # Task 1: Formal Code Review – PyQt4 Calculator
-
-## 📌 Repository Info
+📌 Repository Info
 - Forked from: https://github.com/koakumaping/Calculator_Python *(or the original repo you forked)*
 - My fork: https://github.com/YOUR_USERNAME/YOUR_REPO *(replace with your real link)*
 
----
-
-## 📂 Reviewed File
+ 📂 Reviewed File
 - `Calculator.py` (renamed and improved in this repo)
 
----
-
-## ✅ Positive Aspects
+Positive Aspects
 
 | Area         | Review |
 |--------------|--------|
@@ -21,9 +16,7 @@
 | Error Handling | Checks for division by zero and invalid inputs |
 | Readability  | Code is now commented and easier to understand |
 
----
-
-## ⚠️ Suggestions & Improvements
+Suggestions & Improvements
 
 | Issue | Suggestion |
 |-------|------------|
@@ -32,16 +25,11 @@
 | Hardcoded strings | Could use translation-ready UI or string variables |
 | Function naming | Now improved, originally was vague like `func_button_X` |
 
----
-
-## 💡 Summary
+Summary
 
 This project was selected for a **formal review**. After analyzing and editing the code:
 - It now has better **structure, modularity, and comments**.
 - Common issues like division by zero and repeated logic were addressed.
 - This calculator is now clean, usable, and ready for testing practices.
 
----
-
-_Reviewed by: [Your Name]  
-Date: [Date of submission]_
+_Reviewed by: [Enes Celik]
